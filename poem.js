@@ -1,1 +1,3 @@
-button.onclick = function(){alert("Hello! I am an alert box!!")};
+function myFunction() {
+    document.getElementById("sponge").src = "sans.gif";
+}
